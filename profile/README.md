@@ -9,9 +9,11 @@
 ## architectures
 정의: 폴더의 구조, 컴포넌트 구조를 비즈니스 로직과 단순 컴포넌트를 어떤 패턴을 사용할지 정의.
 해당 프로젝트의 특성상(여러가지 시도하려는 목적) 여러가지 패턴을 써볼려고함.
+MSA, 마이크로서비스 아키텍처 적용 각 기능별 레퍼지토리 생성하여 관심사 분리 및 관리 용이성 증가 시켜봄
 - Custom Hook Pattern 
 - Presentation / Container Component Pattern
 - 다른 패턴 이해후 추후 추가(State Reducer Pattern, Props Getters Pattern 등)
+- MicroService Architecture
 
 ## Contents/Function
 
@@ -53,4 +55,5 @@
 ## Optimization
 - 컴포넌트 재사용
 - 사용자경험 개선 List : Intersection Observer를 사용 전 후 
+- React.memo, useCallback 사용 리랜더링 최적화
 
