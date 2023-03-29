@@ -13,7 +13,8 @@ MSA, 마이크로서비스 아키텍처 적용 각 기능별 레퍼지토리 생
 - Custom Hook Pattern 
 - Presentation / Container Component Pattern
 - 다른 패턴 이해후 추후 추가(State Reducer Pattern, Props Getters Pattern 등)
-- MicroService Architecture
+- MicroService Architecture/ Micro Frontend
+- MonoRepo (after Micro Frontend)
 
 ## Contents/Function
 
