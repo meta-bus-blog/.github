@@ -15,6 +15,7 @@ MSA, 마이크로서비스 아키텍처 적용 각 기능별 레퍼지토리 생
 - 다른 패턴 이해후 추후 추가(State Reducer Pattern, Props Getters Pattern 등)
 - MicroService Architecture/ Micro Frontend
 - MonoRepo (after Micro Frontend)
+- 컴포넌트 라이브러리 npm 배포 & 구축
 
 ## Contents/Function
 
@@ -29,7 +30,6 @@ MSA, 마이크로서비스 아키텍처 적용 각 기능별 레퍼지토리 생
 - 로그인 JWT/소셜
 - 구글 Ads 광고
 - 자신의 캐릭터 : 360회전, 숨쉬기애니메이션 / 랜덤 뽑기 아이템 장착 
-
 
 
 ## as-is Tech Stack
@@ -57,4 +57,10 @@ MSA, 마이크로서비스 아키텍처 적용 각 기능별 레퍼지토리 생
 - 컴포넌트 재사용
 - 사용자경험 개선 List : Intersection Observer를 사용 전 후 
 - React.memo, useCallback 사용 리랜더링 최적화
+
+## Convention/ DX / config etc
+- ESLint 설정
+- Prettier 설정
+- typescript 설정
+
 
