@@ -52,6 +52,7 @@ MSA, 마이크로서비스 아키텍처 적용 각 기능별 레퍼지토리 생
 - webrtc
 - graphQL
 - recoil / context API
+- webview (RN)
 
 ## Optimization
 - 컴포넌트 재사용
@@ -62,5 +63,8 @@ MSA, 마이크로서비스 아키텍처 적용 각 기능별 레퍼지토리 생
 - ESLint 설정
 - Prettier 설정
 - typescript 설정
+
+## etc
+- 스켈레톤
 
 
