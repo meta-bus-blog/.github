@@ -51,7 +51,7 @@
 - 자신의 캐릭터 : 360회전, 숨쉬기애니메이션 / 랜덤 뽑기 아이템 장착
 - 이미지/영상 upload & fetch display media
 - 푸쉬알림 / 알림톡
-- 브릿지 페이지 & 딥링크 / Analytics
+- 브릿지 페이지 & 딥링(AirBridge.io) / Analytics
 - 커뮤니티 게시판 / 페이지네이션
 
 ## as-is Tech Stack
