@@ -93,6 +93,7 @@
 - graphQL
 - recoil / context API
 - view transitions API (페이지 이동간 에니메이션)
+- web worker API 백그라운드 처리 
 
 ---
 
